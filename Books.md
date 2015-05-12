@@ -32,6 +32,9 @@
 +   [Pro Git Book](http://git-scm.com/book/en/v2)
 +   
 
+### Node
++   [nodemon](http://nodemon.io/) monitors for changes in your source code and automatically restarts your server
+
 ## Coding Challenges
 +   [Project Euler](http://projecteuler.net/problems)
 +   [Coder Byte](http://coderbyte.com/)
