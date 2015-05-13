@@ -35,6 +35,8 @@
 ### JavaScript
 +   [Underscore.js](http://underscorejs.org/#template) Compiles JavaScript templates into functions that can be evaluated for rendering
 +   [Handlebars](http://handlebarsjs.com/)
++   [Mustache](http://mustache.github.io/)
++   [Mustache Manual](http://mustache.github.io/mustache.5.html)
 
 ### Node
 +   [nodemon](http://nodemon.io/) monitors for changes in your source code and automatically restarts your server
