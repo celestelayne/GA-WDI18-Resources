@@ -32,6 +32,9 @@
 +   [Pro Git Book](http://git-scm.com/book/en/v2)
 +   
 
+### JavaScript
++   [Underscore.js](http://underscorejs.org/#template) Compiles JavaScript templates into functions that can be evaluated for rendering
+
 ### Node
 +   [nodemon](http://nodemon.io/) monitors for changes in your source code and automatically restarts your server
 
