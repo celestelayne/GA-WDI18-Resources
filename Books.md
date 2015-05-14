@@ -41,6 +41,9 @@
 ### Node
 +   [nodemon](http://nodemon.io/) monitors for changes in your source code and automatically restarts your server
 
+### Databases
++   [Mongoose Docs](http://mongoosejs.com/docs/guide.html)
+
 ## Coding Challenges
 +   [Project Euler](http://projecteuler.net/problems)
 +   [Coder Byte](http://coderbyte.com/)
