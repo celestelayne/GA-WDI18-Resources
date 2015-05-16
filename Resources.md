@@ -1,6 +1,4 @@
 
-# FREE BOOKS
-
 ## Programming
 +   [How to Design Programs](http://www.htdp.org/)
 +   [Data Structures and Algorithms](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/)
