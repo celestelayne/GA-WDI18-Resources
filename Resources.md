@@ -7,9 +7,18 @@
 +   [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
 ## Languages
+### HTML
++   [MDN Learning the Web: HTML](https://developer.mozilla.org/en-US/Learn/HTML)
+
+### CSS
++   [Learn CSS Layout](http://learnlayout.com/)
++   [MDN Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started?redirectlocale=en-US&redirectslug=CSS%2FGetting_Started)
++   [CSS Tricks](https://css-tricks.com/)
+
 ### JavaScript
 +   [MDN JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
 +   [Jumpstart Lab - Ruby & JavaScript](http://tutorials.jumpstartlab.com/)
++   [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 
 ### Ruby
 +   [Learn to Program](https://pine.fm/LearnToProgram/)
