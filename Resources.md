@@ -48,6 +48,7 @@
 
 ### jQuery
 +   [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
++   [jQuery API Documentation](http://api.jquery.com/)
 +   [jQuery Plugins](https://learn.jquery.com/plugins/)
 +   [jQuery UI](http://jqueryui.com/)
 
