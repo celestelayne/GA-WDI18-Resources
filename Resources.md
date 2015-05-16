@@ -14,6 +14,8 @@
 +   [Learn CSS Layout](http://learnlayout.com/)
 +   [MDN Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started?redirectlocale=en-US&redirectslug=CSS%2FGetting_Started)
 +   [CSS Tricks](https://css-tricks.com/)
++   [CSS Basics](http://www.cssbasics.com/)
++   [CSS Font Stack](http://www.cssfontstack.com/)
 
 ### JavaScript
 +   [MDN JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
