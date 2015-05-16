@@ -39,13 +39,17 @@
 +   [GitHub Help - Create a Repo](https://help.github.com/articles/create-a-repo/)
 +   [GitHub Help - Fork a Repo](https://help.github.com/articles/fork-a-repo/)
 +   [Pro Git Book](http://git-scm.com/book/en/v2)
-+   
 
 ### JavaScript
 +   [Underscore.js](http://underscorejs.org/#template) Compiles JavaScript templates into functions that can be evaluated for rendering
 +   [Handlebars](http://handlebarsjs.com/)
 +   [Mustache](http://mustache.github.io/)
 +   [Mustache Manual](http://mustache.github.io/mustache.5.html)
+
+### jQuery
++   [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
++   [jQuery Plugins](https://learn.jquery.com/plugins/)
++   [jQuery UI](http://jqueryui.com/)
 
 ### Node
 +   [nodemon](http://nodemon.io/) monitors for changes in your source code and automatically restarts your server
