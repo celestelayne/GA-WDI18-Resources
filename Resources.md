@@ -19,12 +19,15 @@
 +   [MDN JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
 +   [Jumpstart Lab - Ruby & JavaScript](http://tutorials.jumpstartlab.com/)
 +   [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
++   [Code School Javascript](https://www.codeschool.com/paths/javascript)
+
+### Node
++   [Node School Workshops](http://nodeschool.io/#workshoppers)
 
 ### Ruby
 +   [Learn to Program](https://pine.fm/LearnToProgram/)
 +   [Jumpstart Lab - Ruby & JavaScript](http://tutorials.jumpstartlab.com/)
 +   [Test First Ruby](http://testfirst.org/learn_ruby/)
-
 
 ### Objective-C
 [iTunesU - Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
