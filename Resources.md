@@ -20,6 +20,7 @@
 +   [Jumpstart Lab - Ruby & JavaScript](http://tutorials.jumpstartlab.com/)
 +   [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 +   [Code School Javascript](https://www.codeschool.com/paths/javascript)
++   [That JS Dude](http://www.thatjsdude.com/) includes interview questions
 
 ### Node
 +   [Node School Workshops](http://nodeschool.io/#workshoppers)
