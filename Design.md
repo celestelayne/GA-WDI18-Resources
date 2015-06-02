@@ -11,3 +11,7 @@
 +   [Color Zilla](http://www.colorzilla.com/gradient-editor/)
 +   [Flat UI Colors](http://flatuicolors.com/)
 +   [Flat UI Color Picker](www.flatuicolorpicker.com)
+
+### Front End
++   [Scroll Magic](http://scrollmagic.io/examples/index.html)
+
