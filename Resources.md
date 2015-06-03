@@ -69,3 +69,7 @@
 
 ### Ruby
 +   [Rubular](http://rubular.com/)
+
+
+## RESOURCES
++   [Useful APIs](http://www.webdesignerdepot.com/2011/07/40-useful-apis-for-web-designers-and-developers/)
