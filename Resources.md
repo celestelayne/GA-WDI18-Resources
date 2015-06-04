@@ -42,6 +42,10 @@
 ### The Command Line
 +   [Learn Code the Hard Way](http://cli.learncodethehardway.org/book/)
 
+### Markdown Editor
++   [Mou](http://25.io/mou/)
++   [Dillinger](http://dillinger.io/)
+
 ### Git
 +   [GitHub Help - Set Up Git](https://help.github.com/articles/set-up-git/)
 +   [GitHub Help - Create a Repo](https://help.github.com/articles/create-a-repo/)
