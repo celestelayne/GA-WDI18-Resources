@@ -31,7 +31,7 @@
 +   [Test First Ruby](http://testfirst.org/learn_ruby/)
 +   [Codeacademy](http://www.codecademy.com/glossary/ruby)
 
-### RAILS
+### Rails
 +   [Rails Guides](http://guides.rubyonrails.org/)
 
 ### Objective-C
