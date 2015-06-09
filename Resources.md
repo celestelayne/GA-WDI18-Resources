@@ -31,6 +31,9 @@
 +   [Test First Ruby](http://testfirst.org/learn_ruby/)
 +   [Codeacademy](http://www.codecademy.com/glossary/ruby)
 
+###
++   [Rails Guides](http://guides.rubyonrails.org/)
+
 ### Objective-C
 [iTunesU - Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 
