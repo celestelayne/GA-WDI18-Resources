@@ -15,7 +15,7 @@
 + change the file (add stuff)
 + commit again
  
-git push origin master      #push to your fork
++ git push origin master      #push to your fork
 
 ----
 
