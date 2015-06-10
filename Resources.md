@@ -45,9 +45,10 @@
 ### The Command Line
 +   [Learn Code the Hard Way](http://cli.learncodethehardway.org/book/)
 
-### Markdown Editor
+### Markdown Editor & Cheatsheets
 +   [Mou](http://25.io/mou/)
 +   [Dillinger](http://dillinger.io/)
++   [Emoji Cheatshhet](http://www.emoji-cheat-sheet.com/)
 
 ### Git
 +   [GitHub Help - Set Up Git](https://help.github.com/articles/set-up-git/)
