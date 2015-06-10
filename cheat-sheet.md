@@ -1,19 +1,19 @@
 ### Pulling from UPSTREAM
 
-#setup..
+>setup..
  
-#fork the main (god) repo
-#clone down your fork
-#run `git remote add upstream <url of god repo>`
++ fork the main (god) repo
++ clone down your fork
++ run `git remote add upstream <url of god repo>`
  
-#now you can..
+>now you can..
  
-git add .
-git commit -m "pulling from upstream"
-git pull upstream master    #pull from god
++ git add .
++ git commit -m "pulling from upstream"
++ git pull upstream master    #pull from god
  
-#change the file (add stuff)
-#commit again
++ change the file (add stuff)
++ commit again
  
 git push origin master      #push to your fork
 
