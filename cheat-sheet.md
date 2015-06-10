@@ -20,3 +20,7 @@
 ----
 
 ### Pushing to GitHub Repo
+
+
+### RSpec
+rspec --format documentation
