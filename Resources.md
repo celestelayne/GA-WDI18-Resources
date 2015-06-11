@@ -83,5 +83,9 @@
 ### SQL
 +   [FFaker](http://ricostacruz.com/cheatsheets/ffaker.html)
 
+### Web Scraping
++   [Nokogiri.org](http://www.nokogiri.org/)
++   [Nokogiri](http://www.rubydoc.info/github/sparklemotion/nokogiri)
+
 ## RESOURCES
 +   [Useful APIs](http://www.webdesignerdepot.com/2011/07/40-useful-apis-for-web-designers-and-developers/)
