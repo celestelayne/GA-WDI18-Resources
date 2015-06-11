@@ -15,3 +15,16 @@
 ### Front End
 +   [Scroll Magic](http://scrollmagic.io/examples/index.html)
 
+### HTML5
++   [HTML5 Up](http://html5up.net/)
+
+### Bootstrap
++   [Start Bootstrap](http://startbootstrap.com/)
++   [Boostrap](http://getbootstrap.com/)
++   [Wrap Bootstrap](https://wrapbootstrap.com/)
++   [Bootswatch](http://bootswatch.com/)
+
+### Free Resources
++   [Freebie Supply](http://growth.supply/free/)
++   [Oozled](Curated resources for everything creative)
++   [Stock Photo Resources](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
