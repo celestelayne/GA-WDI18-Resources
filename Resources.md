@@ -84,8 +84,12 @@
 +   [FFaker](http://ricostacruz.com/cheatsheets/ffaker.html)
 
 ### Web Scraping
++   [Kimono](https://www.kimonolabs.com/)
++   [Capybara WebKit](https://github.com/thoughtbot/capybara-webkit)
++     gem install capybara-webkit
 +   [Nokogiri.org](http://www.nokogiri.org/)
 +   [Nokogiri](http://www.rubydoc.info/github/sparklemotion/nokogiri)
++   [CasperJS](http://casperjs.org/)
 
 ## RESOURCES
 +   [Useful APIs](http://www.webdesignerdepot.com/2011/07/40-useful-apis-for-web-designers-and-developers/)
