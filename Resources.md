@@ -14,6 +14,7 @@
 +   [CSS Tricks](https://css-tricks.com/)
 +   [CSS Basics](http://www.cssbasics.com/)
 +   [CSS Font Stack](http://www.cssfontstack.com/)
++   [CSS Play](http://www.cssplay.co.uk/)
 
 ### JavaScript
 +   [MDN JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
@@ -21,6 +22,7 @@
 +   [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 +   [Code School Javascript](https://www.codeschool.com/paths/javascript)
 +   [That JS Dude](http://www.thatjsdude.com/) includes interview questions
++   [Human Javascript](http://read.humanjavascript.com/)
 
 ### Node
 +   [Node School Workshops](http://nodeschool.io/#workshoppers)
