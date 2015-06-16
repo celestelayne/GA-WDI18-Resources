@@ -65,6 +65,7 @@
 +   [Mustache](http://mustache.github.io/)
 +   [Mustache Manual](http://mustache.github.io/mustache.5.html)
 +   [Backbone](http://addyosmani.github.io/backbone-fundamentals/)
++   [Off Canvas Slide Menu](http://jasny.github.io/bootstrap/javascript/#offcanvas)
 
 ### jQuery
 +   [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
