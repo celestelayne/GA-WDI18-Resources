@@ -14,6 +14,7 @@
 
 ### Front End
 +   [Scroll Magic](http://scrollmagic.io/examples/index.html)
++   [Modals](http://coolestguidesontheplanet.com/bootstrap/modal.php)
 
 ### HTML5
 +   [HTML5 Up](http://html5up.net/)
