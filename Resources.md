@@ -27,6 +27,9 @@
 ### Node
 +   [Node School Workshops](http://nodeschool.io/#workshoppers)
 
+### AngularJS
++   [Angular Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
+
 ### Ruby
 +   [Learn to Program](https://pine.fm/LearnToProgram/)
 +   [Jumpstart Lab - Ruby & JavaScript](http://tutorials.jumpstartlab.com/)
