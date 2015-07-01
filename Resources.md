@@ -43,6 +43,15 @@
 ### Objective-C
 [iTunesU - Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 
+### MAPPING
++   [Maptime Boston Leaflet Intro](http://maptimeboston.github.io/leaflet-intro/)
++   [LuxembourgJS Leaflet Demo](http://luxembourgjs.github.io/leaflet-demo/#/)
++   [Stamen Watercolor Layer](http://maps.stamen.com/#watercolor/12/37.7706/-122.3782)
++   [Leaflet and Mapbox JavaScript API Fundamentals](https://github.com/geografa/foss4g2014-workshops/blob/master/Leaflet-and-Mapbox-JavaScript-API-Fundamentals.md)
+
+### D3
++   [D3 Wiki](https://github.com/mbostock/d3/wiki/Tutorials)
+
 ## TESTING
 ### RSpec
 +   [Relish](https://www.relishapp.com/rspec), BDD tool for Ruby programmers
