@@ -57,6 +57,9 @@
 +   [Relish](https://www.relishapp.com/rspec), BDD tool for Ruby programmers
 +   [RSpec Documentation](http://rspec.info/documentation/)
 
++   [Travis CI](https://travis-ci.org/)
++   
+
 ## Tools
 ### Keyboard Shortcuts
 +   [Mac Keyboard Shortcuts](http://www.danrodney.com/mac/)
