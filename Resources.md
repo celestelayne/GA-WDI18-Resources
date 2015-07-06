@@ -52,6 +52,9 @@
 ### D3
 +   [D3 Wiki](https://github.com/mbostock/d3/wiki/Tutorials)
 
+## PODCASTS
++   [Dev Chat](http://devchat.tv/)
+
 ## TESTING
 ### RSpec
 +   [Relish](https://www.relishapp.com/rspec), BDD tool for Ruby programmers
