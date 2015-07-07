@@ -26,6 +26,7 @@
 
 ### Node
 +   [Node School Workshops](http://nodeschool.io/#workshoppers)
++   [CodePath Node Channel](https://vimeo.com/channels/909986)
 
 ### AngularJS
 +   [Angular Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
@@ -41,7 +42,9 @@
 +   [Rails Tutorial Book](https://www.railstutorial.org/book/)
 
 ### Objective-C
-[iTunesU - Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
++   [iTunesU - Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
++   [iOS for Designers](http://courses.codepath.com/courses/ios_for_designers/pages/bootcamp_structure)
++   
 
 ### MAPPING
 +   [Maptime Boston Leaflet Intro](http://maptimeboston.github.io/leaflet-intro/)
