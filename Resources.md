@@ -56,12 +56,9 @@
 +   [Dev Chat](http://devchat.tv/)
 
 ## TESTING
-### RSpec
 +   [Relish](https://www.relishapp.com/rspec), BDD tool for Ruby programmers
 +   [RSpec Documentation](http://rspec.info/documentation/)
-
 +   [Travis CI](https://travis-ci.org/)
-+   
 
 ## Tools
 ### Keyboard Shortcuts
@@ -115,6 +112,10 @@
 +   [Nokogiri.org](http://www.nokogiri.org/)
 +   [Nokogiri](http://www.rubydoc.info/github/sparklemotion/nokogiri)
 +   [CasperJS](http://casperjs.org/)
+
+### Web Sockets
++   [Making Chat App](http://code.tutsplus.com/tutorials/real-time-chat-with-nodejs-socketio-and-expressjs--net-31708)
++   [Sockets.io](http://socket.io/get-started/chat/)
 
 ## RESOURCES
 +   [Useful APIs](http://www.webdesignerdepot.com/2011/07/40-useful-apis-for-web-designers-and-developers/)
