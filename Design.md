@@ -18,6 +18,7 @@
 ### Front End
 +   [Scroll Magic](http://scrollmagic.io/examples/index.html)
 +   [Modals](http://coolestguidesontheplanet.com/bootstrap/modal.php)
++   [Favorite Buttons](http://stackoverflow.com/questions/3626350/jquery-making-a-favorite-button-with-function)
 
 ### HTML5
 +   [HTML5 Up](http://html5up.net/)
