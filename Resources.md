@@ -15,6 +15,7 @@
 +   [CSS Basics](http://www.cssbasics.com/)
 +   [CSS Font Stack](http://www.cssfontstack.com/)
 +   [CSS Play](http://www.cssplay.co.uk/)
++   [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
 
 ### JavaScript
 +   [MDN JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
