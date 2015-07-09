@@ -122,5 +122,6 @@
 +   [Making Chat App](http://code.tutsplus.com/tutorials/real-time-chat-with-nodejs-socketio-and-expressjs--net-31708)
 +   [Sockets.io](http://socket.io/get-started/chat/)
 
-## RESOURCES
+## APIs
++   [APIs on Rails](http://apionrails.icalialabs.com/book)
 +   [Useful APIs](http://www.webdesignerdepot.com/2011/07/40-useful-apis-for-web-designers-and-developers/)
