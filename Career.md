@@ -12,6 +12,7 @@
 +   [Indeed](http://www.indeed.com/)
 +   [Digital NYC Jobs](http://www.digital.nyc/jobs)
 +   [Gary's Guide](http://www.garysguide.com/jobs)
++   [Authentic Jobs](https://authenticjobs.com/)
 
 ## Coding Challenges
 +   [Project Euler](http://projecteuler.net/problems)
