@@ -11,6 +11,7 @@
 +   [Smashing Magazine](http://jobs.smashingmagazine.com/)
 +   [Indeed](http://www.indeed.com/)
 +   [Digital NYC Jobs](http://www.digital.nyc/jobs)
++   [Gary's Guide](http://www.garysguide.com/jobs)
 
 ## Coding Challenges
 +   [Project Euler](http://projecteuler.net/problems)
