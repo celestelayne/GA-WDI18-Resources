@@ -68,6 +68,7 @@
 ## Tools
 ### Keyboard Shortcuts
 +   [Mac Keyboard Shortcuts](http://www.danrodney.com/mac/)
++   [Chrome Shortcuts](https://developer.chrome.com/devtools/docs/shortcuts)
 
 ### The Command Line
 +   [Learn Code the Hard Way](http://cli.learncodethehardway.org/book/)
