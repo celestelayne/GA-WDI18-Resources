@@ -4,8 +4,8 @@
 ```
 Celeste-Layne-2:local admin$ cd /usr/local
 ```
-⋅⋅+ First window: run mongod
-⋅⋅+ Second window:
+⋅⋅* First window: run mongod
+⋅⋅* Second window:
 ```
 Celeste-Layne-2:local admin$ ./bin/mongo
 ```
