@@ -21,8 +21,9 @@ Questions? Try the support group
 + In the repl, type **db** to display the database you are currently using:
 ```
 > db
+test
 ```
-**test** // see, it's called test which is the default database
++ See, it's called **test** which is the default database
 ```
 > show dbs
 ```
@@ -48,5 +49,5 @@ wine_app      0.078GB
 > show collections
 ```
 + And here they are:
-system.indexes
-users
+..*system.indexes
+..*users
