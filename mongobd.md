@@ -1,6 +1,6 @@
 ### Mongo Repl
 
-+ Open two terminal windows and cd into /usr/local
+1. Open two terminal windows and cd into /usr/local
 ```
 Celeste-Layne-2:local admin$ cd /usr/local
 ```
@@ -10,7 +10,7 @@ Celeste-Layne-2:local admin$ cd /usr/local
 Celeste-Layne-2:local admin$ ./bin/mongo
 ```
 
-MongoDB shell version: 3.0.3
+2. MongoDB shell version: 3.0.3
 connecting to: test
 Welcome to the MongoDB shell.
 For interactive help, type "help".
