@@ -49,5 +49,7 @@ wine_app      0.078GB
 > show collections
 ```
 + And here they are:
-..*system.indexes
-..*users
+```
+system.indexes
+users
+```
