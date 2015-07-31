@@ -1,15 +1,15 @@
 ### Mongo Repl
 
-1. Open two terminal windows and cd into /usr/local
++ Open two terminal windows and cd into /usr/local
 ```
 Celeste-Layne-2:local admin$ cd /usr/local
 ```
-+ First window: run mongod
-+ Second window:
++ In the first window: run mongod
++ In the second window: type **./bin/mongo**
 ```
 Celeste-Layne-2:local admin$ ./bin/mongo
 ```
-2. Connect to database. In this case it's **test**
++ Connect to database. In this case it's **test**
 MongoDB shell version: 3.0.3
 connecting to: **test**
 Welcome to the MongoDB shell.
@@ -18,7 +18,7 @@ For more comprehensive documentation, see
 	http://docs.mongodb.org/
 Questions? Try the support group
 	http://groups.google.com/group/mongodb-user
-3. In the repl, type **db** to display the database you are currently using:
++ In the repl, type **db** to display the database you are currently using:
 ```
 > db
 ```
