@@ -1,4 +1,4 @@
-### Mongo Repl
+### [Mongo Shell Help](http://docs.mongodb.org/v2.2/tutorial/access-mongo-shell-help/#mongo-shell-help-collection)
 
 + Open two terminal windows and cd into /usr/local
 ```
