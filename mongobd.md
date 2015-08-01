@@ -1,6 +1,6 @@
 ### [Mongo Shell Help](http://docs.mongodb.org/v2.2/tutorial/access-mongo-shell-help/#mongo-shell-help-collection)
 
-##### ...[Getting Started with Mongo Shell](http://docs.mongodb.org/v2.2/tutorial/getting-started-with-the-mongo-shell/)
+... ##### [Getting Started with Mongo Shell](http://docs.mongodb.org/v2.2/tutorial/getting-started-with-the-mongo-shell/)
 
 + Open two terminal windows and cd into /usr/local
 ```
