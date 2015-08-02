@@ -14,6 +14,7 @@
 +   [Color Zilla](http://www.colorzilla.com/gradient-editor/)
 +   [Flat UI Colors](http://flatuicolors.com/)
 +   [Flat UI Color Picker](www.flatuicolorpicker.com)
++   [Color Template](http://www.rocket-design.fr/color-template/)
 
 ### Front End
 +   [Scroll Magic](http://scrollmagic.io/examples/index.html)
