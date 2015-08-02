@@ -33,5 +33,5 @@
 
 ### Free Resources
 +   [Freebie Supply](http://growth.supply/free/)
-+   [Oozled](Curated resources for everything creative)
++   [Oozled](oozled.com)
 +   [Stock Photo Resources](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
