@@ -7,6 +7,9 @@
 +   [Lorem Ipsum](http://www.lipsum.com/)
 +   [Choose Your Ipsum](http://idsgn.dropmark.com/107)
 
+### Sketch
++   [Sketch App Shortcuts](http://sketchshortcuts.com/)
+
 ### Color
 +   [0 to 255](http://www.0to255.com/)
 +   [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
