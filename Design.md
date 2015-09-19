@@ -38,3 +38,6 @@
 +   [Freebie Supply](http://growth.supply/free/)
 +   [Oozled](http://www.oozled.com)
 +   [Stock Photo Resources](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
+
+### Reading
++   [Tech & All](http://www.techandall.com/)
