@@ -25,6 +25,10 @@
 +   [Cracking the Coding Interview](http://www.mktechnicalclasses.com/Notes/Cracking%20the%20Coding%20Interview,%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf)
 +   [JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 +   [100 practice technical interview questions for junior developers](https://gist.github.com/robertjwhitney/bc68fa071606ba6fd3b8)
++   [rails_interview_questions](https://github.com/afeld/rails_interview_questions)
++   [ruby-on-rails-interview-questions](http://www.skilledup.com/articles/ruby-on-rails-interview-questions-answers)
++   [Front-end-Developer-Interview](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
++   [Back-End-Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
 ### Notes
 +   [Crush and Lovely](http://crushlovely.com/team/) hires junior back-end and dev ops engineers
